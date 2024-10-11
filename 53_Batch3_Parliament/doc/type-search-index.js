@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"loksabha"},{"p":"<Unnamed>","l":"Mem1"},{"p":"<Unnamed>","l":"Mem2"},{"p":"<Unnamed>","l":"Menuparliament"},{"p":"<Unnamed>","l":"Parliament"},{"p":"<Unnamed>","l":"President"},{"p":"<Unnamed>","l":"Rajyasabha"}];updateSearchResults();
